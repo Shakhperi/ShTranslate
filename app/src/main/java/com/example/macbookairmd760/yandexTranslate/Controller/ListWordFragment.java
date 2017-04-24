@@ -130,16 +130,18 @@ public class ListWordFragment extends Fragment implements PropertyChangeListener
         String text = "";
         int resImage;
 
-        if (isFavorite) {
-            text = getResources().getString(R.string.favorites_empty);
-            resImage = R.drawable.ic_favorite_empty;
-        } else {
-            text = getResources().getString(R.string.history_empty);
-            resImage = R.drawable.ic_history_empty;
-        }
+        if (isAdded()) {
+            if (isFavorite) {
+                text = getResources().getString(R.string.favorites_empty);
+                resImage = R.drawable.ic_favorite_empty;
+            } else {
+                text = getResources().getString(R.string.history_empty);
+                resImage = R.drawable.ic_history_empty;
+            }
 
-        tvEmpty.setText(text);
-        imvEmpty.setImageResource(resImage);
+            tvEmpty.setText(text);
+            imvEmpty.setImageResource(resImage);
+        }
     }
 
     @Override

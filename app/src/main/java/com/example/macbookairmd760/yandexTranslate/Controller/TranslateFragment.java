@@ -233,10 +233,12 @@ public class TranslateFragment extends Fragment implements View.OnClickListener,
                 int selectedFromPos = getSelectedItem(itemsFrom, valueLanguageTo);
                 int selectedToPos = getSelectedItem(itemsTo, valueLanguageFrom);
 
-                String detectLanguageValue = getResources().getString(R.string.value_detect_language);
-                if (!valueLanguageFrom.equals(detectLanguageValue)) {
-                    sprLanguageTo.setSelection(selectedToPos);
-                    languageTo = languagesTo.get(selectedToPos);
+                if (isAdded()) {
+                    String detectLanguageValue = getResources().getString(R.string.value_detect_language);
+                    if (!valueLanguageFrom.equals(detectLanguageValue)) {
+                        sprLanguageTo.setSelection(selectedToPos);
+                        languageTo = languagesTo.get(selectedToPos);
+                    }
                 }
                 sprLanguageFrom.setSelection(selectedFromPos);
                 languageFrom = languagesFrom.get(selectedFromPos);
@@ -254,19 +256,21 @@ public class TranslateFragment extends Fragment implements View.OnClickListener,
         if (!text.equals("")) {
             word = new Word(text);
             word.setLanguageTo(languageTo);
+            if (isAdded()) {
+                String detectLanguageAlpha2 = getResources().getString(R.string.alpha2_detect_language);
 
-            String detectLanguageAlpha2 = getResources().getString(R.string.alpha2_detect_language);
-            if (languageFrom.getAlpha2().equals(detectLanguageAlpha2)) {
-                if (InternetState.isConnected(getContext())) {
-                    word.detectLanguage(callbackDetectLanguage);
-                    showTextViewTranslate();
+                if (languageFrom.getAlpha2().equals(detectLanguageAlpha2)) {
+                    if (InternetState.isConnected(getContext())) {
+                        word.detectLanguage(callbackDetectLanguage);
+                        showTextViewTranslate();
+                    } else {
+                        showError();
+                    }
                 } else {
-                    showError();
-                }
-            } else {
-                word.setLanguageFrom(languageFrom);
+                    word.setLanguageFrom(languageFrom);
 
-                translate();
+                    translate();
+                }
             }
         }
     }
@@ -338,8 +342,13 @@ public class TranslateFragment extends Fragment implements View.OnClickListener,
         String defaultAlpha2 = Locale.getDefault().getLanguage();
         Language.sort(languagesFrom, defaultAlpha2);
 
-        String alpha2 = getResources().getString(R.string.alpha2_detect_language);
-        String value = getResources().getString(R.string.value_detect_language);
+        String alpha2 = "";
+        String value = "";
+
+        if (isAdded()) {
+            alpha2 = getResources().getString(R.string.alpha2_detect_language);
+            value = getResources().getString(R.string.value_detect_language);
+        }
 
         Language language = new Language();
         language.setAlpha2(alpha2);
