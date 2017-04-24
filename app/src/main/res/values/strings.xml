@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ShTranslate</string>
+    <!--> translate screen<!-->
+    <string name="tab_title_translate">Переводчик</string>
+    <string name="tab_title_history">История</string>
+    <string name="tab_title_settings">Настройки</string>
+    <string name="internet_unavailable">Отсутствует интернет-соединение</string>
+    <string name="yandex_service_title">Переведено сервисом «Яндекс.Переводчик»</string>
+    <string name="yandex_service_link">http://translate.yandex.ru/</string>
+
+    <!--> history screen<!-->
+    <string name="title_history">История</string>
+    <string name="history_empty">В истории нет переводов</string>
+
+    <!--> Favorites screen<!-->
+    <string name="title_favorites">Избранное</string>
+    <string name="favorites_empty">Пометьте слова звездой, чтобы перевод появился в избранном</string>
+
+    <!--> Settings screen <!-->
+
+    <!--> common <!-->
+    <string name="alpha2_detect_language">auto</string>
+    <string name="value_detect_language">Определить язык</string>
+
+</resources>

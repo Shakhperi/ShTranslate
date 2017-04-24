@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/0b72aee7e8a65fb903aa78d3821a701ed261ffd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7a693b489ad9002ad797a88e65c868abfeccbf8">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_0636b8a1c6ae57b2df1091cffff0cb3ba5229dab.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.1.2/16025e7ab07f180a0068e2ea42db5f5f77462051/realm-annotations-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16025e7ab07f180a0068e2ea42db5f5f77462051">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/realm-annotations-3.1.2_8f9741548c3db3257946e1c8b76f84dad8ca2e07.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/2a7acc0e207ae91012e5c5ef6eaecc32fe78f068/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_aff34647f0b0a0c6197875462467345bfc380716.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/988f82cca127a2d885d5c9feaae7db0cb4565d77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_cf81bdfe79776fc1f8b84c3de04b1e6442172d37.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/92037ff3fc9177f07d780d5fb520c1df6f99a4c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_42d90c99df07ddc9733ed043c93521435aa5a75a.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/gson-2.7_1b0030d59b5a22d132b8e464ad188d62533c5f2c.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/295aea2ef2d58e8af9bdda1629e8237278340992/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_3b04507bd6059597fe08e8a6268af36c10f375d5.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/okio-1.11.0_d51428e84246022dc308d618367f7cec90529324.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/09797faa592eb78c97e6f127a64be95beaaa4500/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_dc80347f5c4054232fa83a2366af927fdac3834f.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/c2dbd140dec6d6107d1def146bd1e39c3f43da6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_be450878afc623cba8e21f2a72a24add6156fb1d.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/2f8483b2706aa481d165f0243635ce7b8c62d17b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_7b67abe1dccc92fa2d689b294b35d5f3731f716c.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/abd5398e0fd49a40bf480b568af0f4964605d1b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_d0e3f9e176a1c0754c27f28d183d0b6633e983a7.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/a9d1681683ff0fa7a8220fde45f967fcf3d4df85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_6e6eb73dee82ee5e988f469db39662ac167a6e6c.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/e85964cd3aba208b9bf77df82b295ebd9278e106/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_817ac127061836d487207a6199e6866c1343c36a.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/c0d4b99a968a250d158a352dee6c77a7512c32eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_f3600f9eb5eaa671a75ab5ec61ca02a50082b368.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/retrofit-2.2.0_3d9c846ad5d63aa019cad7a196bed86aff598b5a.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/9c490c0475eb5c2d2bb537d9bc431921769c78a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_df1680d0aef9e9f5bb0dfea397b6d5c0917e683d.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/f879a10da7e03664b2d54742c4c58be33421e8eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_21140e89da778a997dc68d44f644438af2518c67.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/support-annotations-25.2.0_2bb62f06f8421f2cc89a8464244427dc516922c3.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/constraint-layout-solver-1.0.2_16657ceff6d6835ba765fa4a8af5580a6afd8ad3.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/841efeeed0e6f7ee3c5ff1348f7300e1bd770f90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_6f7fd4e2f1209e0e8e631d1624dba3f11a510674.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/converter-gson-2.2.0_1a45fe07d3bd143320e2b4142f83c5d43a54ed02.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/okhttp-3.6.0_42718826cc40203d08bd52a98e9e5ce0666cd1ef.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/51bfcae9799a75bee306e9d4dc57d4dd78137af4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c40c40059e805809fd4013e6010eb45a35ded9a9">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_5505b8287834a76ba9d305fedb4bf9a9893dbe8d.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/57683d76d5ac81caf430b6fcf91e192d8d6d1bd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_a818ba5b8c48f03fcb04ade5a5b54f1c3d28922c.jar.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookairmd760/.android/build-cache/02694594eed9309982180c0a54a25a2c69f7621d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/transforms/preDex/release/jars/1000/10/classes_b921c68a3f3b6530be63d260b6d8ccc3ab65dd45.jar.jar" />
+    </item>
+
+</items>

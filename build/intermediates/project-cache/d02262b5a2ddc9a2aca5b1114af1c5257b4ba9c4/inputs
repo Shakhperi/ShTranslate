@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/macbookairmd760/Downloads/Translate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=2d0d6d54e2bc3cea3fe7f4bb84cc1aa8b3aea05c
+DX_VERSION=1.12
+JUMBO_MODE=true
+OPTIMIZE=true
